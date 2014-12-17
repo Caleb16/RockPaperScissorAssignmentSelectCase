@@ -1,0 +1,22 @@
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.exe.config
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select_Case_Assignment.Form1.resources
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select_Case_Assignment.Resources.resources
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.vbproj.GenerateResource.Cache
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.exe
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.pdb
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.xml
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.exe
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.xml
+C:\Users\Caleb\Documents\GitHub\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.pdb
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.exe.config
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.exe
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.xml
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.pdb
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.exe
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.pdb
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\bin\Debug\Select-Case-Assignment.xml
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select_Case_Assignment.Form1.resources
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select_Case_Assignment.Resources.resources
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Select-Case-Assignment\Select-Case-Assignment\obj\Debug\Select-Case-Assignment.vbproj.GenerateResource.Cache
